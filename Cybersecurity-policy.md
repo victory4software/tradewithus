@@ -82,9 +82,3 @@ This policy applies to:
 - This policy is reviewed annually or when significant changes occur.
 - Updates are approved by management and communicated to relevant stakeholders.
 
-"""
-
-with open(file_path, 'w') as f:
-    f.write(policy_md_content)
-
-file_path
