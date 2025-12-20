@@ -1,7 +1,5 @@
-# Generate a .md file for the updated cybersecurity policy
-file_path = '/mnt/data/Cybersecurity_Policy.md'
+# Cybersecurity Policy
 
-policy_md_content = """# Cybersecurity Policy
 
 ## 1. Purpose
 This Cybersecurity Policy defines the principles, roles, and controls used to protect the application, servers, networks, APIs, and client data from cybersecurity threats. The policy ensures confidentiality, integrity, and availability of all information assets critical to the platform.
