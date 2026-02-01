@@ -55,7 +55,7 @@ We use your information to:
 ---
 
 ## 3. Broker API Integrations
-TradeWithUs integrates with the following brokers via their APIs: **Binance**, **Kraken**, and **Alpaca**.  
+TradeWithUs integrates with the following brokers via their APIs: **Binance**, **Kraken** etc.  
 
 - **API Keys**: You must provide your API keys to connect your brokerage accounts. We do **not** store your API keys in plain text. They are encrypted and used only to execute your trading strategies and fetch account/market data.  
 - **Data Access**: Through these integrations, we access account balances, order history, open positions, and other trading data required to operate your strategies.  
